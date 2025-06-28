@@ -1,4 +1,4 @@
-package Processor;
+package src.main.java.Processor;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package Processor.easy;
+package src.main.java.Processor.easy;
 
 public class MergeStringsAlternately1768 {
 

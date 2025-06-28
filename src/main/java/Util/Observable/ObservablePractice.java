@@ -1,4 +1,4 @@
-package main.java.Util.Observable;
+package src.main.java.Util.Observable;
 
 public class ObservablePractice {
 

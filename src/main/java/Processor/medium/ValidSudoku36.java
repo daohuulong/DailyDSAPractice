@@ -1,4 +1,4 @@
-package Processor.medium;
+package src.main.java.Processor.medium;
 
 public class ValidSudoku36 {
     public boolean isValidSudoku(char[][] board) {

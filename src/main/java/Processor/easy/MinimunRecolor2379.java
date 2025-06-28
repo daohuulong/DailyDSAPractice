@@ -1,4 +1,4 @@
-package Processor.easy;
+package src.main.java.Processor.easy;
 
 public class MinimunRecolor2379 {
 

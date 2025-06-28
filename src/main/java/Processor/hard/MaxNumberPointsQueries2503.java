@@ -1,4 +1,4 @@
-package Processor.hard;
+package src.main.java.Processor.hard;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;

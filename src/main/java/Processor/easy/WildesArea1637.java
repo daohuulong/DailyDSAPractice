@@ -1,4 +1,4 @@
-package Processor.easy;
+package src.main.java.Processor.easy;
 
 import java.util.*;
 

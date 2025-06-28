@@ -1,4 +1,4 @@
-package Processor.medium;
+package src.main.java.Processor.medium;
 
 import java.util.*;
 

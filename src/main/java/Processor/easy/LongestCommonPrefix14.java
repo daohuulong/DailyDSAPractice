@@ -1,4 +1,4 @@
-package Processor.easy;
+package src.main.java.Processor.easy;
 
 public class LongestCommonPrefix14 {
     private String prefix(String a, String b) {

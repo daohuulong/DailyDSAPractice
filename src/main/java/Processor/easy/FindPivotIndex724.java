@@ -1,4 +1,4 @@
-package Processor.easy;
+package src.main.java.Processor.easy;
 
 public class FindPivotIndex724 {
     public int pivotIndex(int[] nums) {
