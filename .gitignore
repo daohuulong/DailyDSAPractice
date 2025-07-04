@@ -34,3 +34,5 @@ bin/
 *.ipr
 /.idea
 /.idea
+/target
+.idea/workspace.xml
