@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cbc48c7-1d8d-495e-922d-0f3382c3ccd8" name="Changes" comment="" />
+    <list default="true" id="6cbc48c7-1d8d-495e-922d-0f3382c3ccd8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Processor/hard/SudokuSolver37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Processor/medium/MaximumAveragePassRatio1792.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Processor/medium/SoupServings808.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Processor/medium/SoupServings808.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,9 +18,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTTP Request" />
         <option value="Swagger" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -23,8 +30,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;daohuulong&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/daohuulong/DailyDSAPractice.git&quot;,
+    &quot;accountId&quot;: &quot;3f63d959-218f-461c-9d66-b09d6a9369aa&quot;
+  }
+}</component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/CharSequence.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Character.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/net/URI.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Observable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/PriorityQueue.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/SortedSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Stack.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/StringJoiner.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/TreeSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicIntegerArray.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/atomic/AtomicReference.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.net.http/java/net/http/HttpClient.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.net.http/java/net/http/HttpResponse.java" root0="SKIP_INSPECTION" />
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.net.http/jdk/internal/net/http/HttpClientImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/lang/StringLatin1.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/graalvm-jdk-21.0.7/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/AbstractStringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/lang/StringUTF16.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/security/SecureRandom.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/AbstractCollection.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Arrays.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Comparator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Map.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Queue.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Random.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/Set.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/function/IntBinaryOperator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/stream/IntStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-24/Contents/Home/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -40,13 +106,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConvertBinary1290.executor": "Run",
+    "Application.FindKthInGame3307.executor": "Run",
     "Application.HttpClientExample.executor": "Debug",
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.PrimeList.executor": "Run",
+    "Application.SoupServings808.executor": "Run",
+    "Application.SudokuSolver37.executor": "Debug",
     "Application.Test2338.executor": "Debug",
     "Application.Test2503.executor": "Debug",
     "Application.Test2818.executor": "Run",
     "Application.WordDictionaryTest.executor": "Debug",
     "Application.test.java.WordDictionaryTest.executor": "Debug",
+    "DefaultHtmlFileTemplate": "HTML File",
     "Downloaded.Files.Path.Enabled": "false",
     "HTTP Request.GetData | GET request to example server (1).executor": "Run",
     "HTTP Request.GetData | GET request to example server.executor": "Run",
@@ -55,6 +127,7 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.go.formatter.settings.were.checked": "true",
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "git-widget-placeholder": "main",
@@ -62,22 +135,23 @@
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/Users/longdao/Documents/pr/LeetCodePractice/src/main/java",
-    "last_opened_file_path": "/Users/longdao/Documents/pr/LeetCodePractice/src/test/resources",
+    "last_opened_file_path": "/Users/longdao/Documents/sws/DailyDSAPractice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT",
-      "JSON"
+      "JSON",
+      "TEXT"
     ]
   }
 }]]></component>
@@ -101,13 +175,27 @@
       <recent name="Processor.hard" />
     </key>
   </component>
-  <component name="RunManager" selected="HTTP Request.GetData | GET request to example server (1)">
-    <configuration name="HttpClientExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.Util.Network.HttpClientExample" />
-      <module name="LeetCodePractice" />
+  <component name="RunManager" selected="Application.SudokuSolver37">
+    <configuration name="ConvertBinary1290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertBinary1290" />
+      <module name="DailyDSAPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertBinary1290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConvertBinary1290" />
+      <module name="DailyDSAPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindKthInGame3307" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Processor.hard.FindKthInGame3307" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.Util.Network.*" />
+          <option name="PATTERN" value="src.main.java.Processor.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.Test2338" />
-      <module name="LeetCodePractice" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Util.OOP.Main" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="src.main.java.Util.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +216,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2338" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.Test2338" />
-      <module name="LeetCodePractice" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Util.OOP.Main" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="src.main.java.Util.OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +229,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2503" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.Test2503" />
-      <module name="LeetCodePractice" />
+    <configuration name="PrimeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Util.Primes.PrimeList" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="src.main.java.Util.Primes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +242,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.Test2818" />
-      <module name="LeetCodePractice" />
+    <configuration name="PrimeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Util.Primes.PrimeList" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="src.main.java.Util.Primes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,12 +255,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2818" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.Test2818" />
-      <module name="LeetCodePractice" />
+    <configuration name="SoupServings808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Processor.medium.SoupServings808" />
+      <module name="DailyDSAPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="src.main.java.Processor.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoupServings808" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Processor.medium.SoupServings808" />
+      <module name="DailyDSAPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.Processor.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SudokuSolver37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.Processor.hard.SudokuSolver37" />
+      <module name="DailyDSAPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.Processor.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,16 +297,13 @@
     <configuration name="GetData | GET request to example server (1)" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/GetData.http" executionIdentifier="GET request to example server" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="GetData | GET request to example server" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/GetData.http" runType="Run single request">
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.GetData | GET request to example server (1)" />
-        <item itemvalue="HTTP Request.GetData | GET request to example server" />
-        <item itemvalue="Application.HttpClientExample" />
-        <item itemvalue="Application.Test2338" />
-        <item itemvalue="Application.Test2818" />
+        <item itemvalue="Application.SudokuSolver37" />
+        <item itemvalue="Application.SoupServings808" />
+        <item itemvalue="Application.PrimeList" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ConvertBinary1290" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +331,25 @@
       <workItem from="1748696608164" duration="2101000" />
       <workItem from="1748918762136" duration="29000" />
       <workItem from="1751011640644" duration="502000" />
+      <workItem from="1751165775239" duration="3509000" />
+      <workItem from="1751268918132" duration="2070000" />
+      <workItem from="1751469943804" duration="178000" />
+      <workItem from="1751470147602" duration="8555000" />
+      <workItem from="1752067789052" duration="4270000" />
+      <workItem from="1752456088397" duration="1387000" />
+      <workItem from="1752568423411" duration="1993000" />
+      <workItem from="1752589492184" duration="10042000" />
+      <workItem from="1753087858412" duration="60000" />
+      <workItem from="1753087935580" duration="1707000" />
+      <workItem from="1753366116858" duration="9611000" />
+      <workItem from="1753585756496" duration="5267000" />
+      <workItem from="1753667265865" duration="3016000" />
+      <workItem from="1755510617734" duration="870000" />
+      <workItem from="1755569939703" duration="2479000" />
+      <workItem from="1755850552459" duration="2294000" />
+      <workItem from="1755926876549" duration="5059000" />
+      <workItem from="1756609086019" duration="1523000" />
+      <workItem from="1756632371255" duration="20429000" />
     </task>
     <servers />
   </component>
@@ -247,6 +377,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Util/Network/HttpClientExample.java</url>
           <line>24</line>
           <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Processor/hard/FindKthInGame3307.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="137" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
